@@ -89,7 +89,7 @@ For example, you can ask, through the CLI, which files are located on the
 `Desktop`. You can create a new folder or delete it. But on top of
 file-management kinds of activities, you can also find out how busy your CPU is,
 how full your hard drive is, and whether your computer can find a network path
-to `flatironschool.com`. On top of this, you don't have to click through several
+to `academyxi.com`. On top of this, you don't have to click through several
 menus to get there!
 
 Experienced developers would say "the CLI gives you more control" or that it's
